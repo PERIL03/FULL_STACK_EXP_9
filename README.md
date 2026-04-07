@@ -1,5 +1,10 @@
 # DEMOJWT - Spring Boot JWT Authentication Demo
 
+<img width="1188" height="603" alt="Screenshot 2026-04-07 at 15 36 36" src="https://github.com/user-attachments/assets/03022f5a-6775-4e35-9697-9db4566bf3a5" />
+<img width="1266" height="710" alt="Screenshot 2026-04-07 at 15 34 53" src="https://github.com/user-attachments/assets/3dbe53bf-de82-4aae-bb70-01a632145573" />
+<img width="1262" height="701" alt="Screenshot 2026-04-07 at 15 35 22" src="https://github.com/user-attachments/assets/9396d1ff-1153-44a2-9a46-7658fc838937" />
+<img width="1263" height="650" alt="Screenshot 2026-04-07 at 15 35 31" src="https://github.com/user-attachments/assets/3acd506f-627b-47b6-b7d5-df255649ce8a" />
+
 This project is a beginner-friendly Spring Boot backend that demonstrates a simple JWT-based login flow using Spring Security, Spring Data JPA, and MySQL.
 
 ## Overview
